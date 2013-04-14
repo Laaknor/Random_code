@@ -1,0 +1,1 @@
+A lot of diffrent random code I've written, which might be useful for others to see/reuse. All code is GPLv3-licensed by Lars Åge Kamfjord (github.com/laaknor)
